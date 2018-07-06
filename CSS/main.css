@@ -1,0 +1,16 @@
+.question {
+  font-family: "gill sans MT";
+  font-size: 18px;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
